@@ -1,0 +1,33 @@
+charts/dapr/README.md
+  s_92eee66b55abb0::t_481e792b99232e 123
+charts/dapr/charts/dapr_operator/templates/dapr_operator_deployment.yaml
+  s_92eee66b55abb0::t_8b7ba5780700a7 248-250
+charts/dapr/charts/dapr_placement/templates/dapr_placement_statefulset.yaml
+  s_92eee66b55abb0::t_7b71db481b278a 288-290
+charts/dapr/charts/dapr_scheduler/templates/dapr_scheduler_statefulset.yaml
+  s_92eee66b55abb0::t_eb359d8bb3aed2 312-314
+charts/dapr/charts/dapr_sentry/templates/dapr_sentry_deployment.yaml
+  s_92eee66b55abb0::t_33cdc1c75bff48 298-300
+charts/dapr/charts/dapr_sidecar_injector/templates/dapr_sidecar_injector_deployment.yaml
+  s_92eee66b55abb0::t_e7b6502465087f 305-307
+charts/dapr/templates/_helpers.tpl
+  s_92eee66b55abb0::t_a2d7a5beeb9b68 59-79
+charts/dapr/values.yaml
+  s_92eee66b55abb0::t_ddc945c4bf0f9e 27-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "003749787a8df14a1b2fd3ac8e432ac779a4f0c0",
+  "prompts": {},
+  "sessions": {
+    "s_92eee66b55abb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d788caae-1b0b-47f0-891f-28ddf1d02b15",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "JiaHeng <5684003+jiaheng@users.noreply.github.com>"
+    }
+  }
+}
